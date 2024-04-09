@@ -6,7 +6,7 @@
 - 😄 Pronouns: HE/HIM...
 - ⚡ Fun fact: POSITIVE THINKER...
 - ⚡ Studying department : EEE..(HARDWARE)✨
--  ✨interested to getting strong in :FSD TECHNOLOGY..(SOFTWARE)😄
+-  ✨interested to getting strong in :FSD TECHNOLOGY..(SOFTWARE)
 
 <!---
 M-VINOTHKUMAR/M-VINOTHKUMAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
