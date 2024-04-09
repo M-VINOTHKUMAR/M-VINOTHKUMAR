@@ -5,8 +5,8 @@
 - 📫 How to reach me :vinothkumar6381650856@gmail.com
 - 😄 Pronouns: HE/HIM...
 - ⚡ Fun fact: POSITIVE THINKER...
-- ⚡ Studying department : EEE..(HARDWARE)✨
--  ✨interested to getting strong in :FSD TECHNOLOGY..(SOFTWARE)
+- ⚡ Studying department : EEE..✨
+-  ✨interested to getting strong in :FSD TECHNOLOGY..
 
 <!---
 M-VINOTHKUMAR/M-VINOTHKUMAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
