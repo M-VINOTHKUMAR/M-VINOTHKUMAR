@@ -85,7 +85,6 @@
 ---
 
 ### 🌐 Connect with Me
-- 🌐 **Portfolio:** [VINOTHKUMAR](https://VINOTHKUMAR.netlify.app/)
 - 💼 **LinkedIn:** [VINOTHKUMAR](https://www.linkedin.com/in/m-vinoth-kumar-08a934287/)
 - 📧 **Email:** [vinothkumar6381650856@gmail.com](mailto:vinothkumar6381650856@gmail.com)
 
