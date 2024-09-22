@@ -84,12 +84,6 @@
 
 ---
 
-### 🌐 Connect with Me
-- 💼 **LinkedIn:** [VINOTHKUMAR](https://www.linkedin.com/in/m-vinoth-kumar-08a934287/)
-- 📧 **Email:** [vinothkumar6381650856@gmail.com](mailto:vinothkumar6381650856@gmail.com)
-
----
-
 ### 📚 Recent Projects
 - **Bus Ticket Booking System** - A comprehensive system managing bus routes, seats, and bookings with real-time data.
 - **Theatre Size Attributes Manager** - A Java application that handles theatre dimensions and seating arrangements.
@@ -97,5 +91,28 @@
 
 ---
 
+### 📷 Project Gallery
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Project Screenshot 1" width="150" />
+  <img src="https://via.placeholder.com/150" alt="Project Screenshot 2" width="150" />
+  <img src="https://via.placeholder.com/150" alt="Project Screenshot 3" width="150" />
+</p>
+
+---
+
+### 🎥 Introduction Video
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=your_video_link">
+    <img src="https://img.youtube.com/vi/your_video_id/hqdefault.jpg" alt="Introduction Video" width="400" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me
+- 💼 **LinkedIn:** [VINOTHKUMAR](https://www.linkedin.com/in/m-vinoth-kumar-08a934287/)
+- 📧 **Email:** [vinothkumar6381650856@gmail.com](mailto:vinothkumar6381650856@gmail.com)
+
+---
+
 Feel free to reach out if you want to collaborate on a project or just have a chat about coding!
-****
